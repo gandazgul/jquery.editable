@@ -1,10 +1,10 @@
 # jQuery.Editable is an extensible jQuery edit-in-place plugin.
 
 #### Author:
-Carlos Ravelo (github.com/gandazgul)
+Carlos Ravelo (http://github.com/gandazgul)
 
 #### Based on code by:
-Edgar Muentes
+Edgar Muentes (http://linkedin.com/in/edgarmuentes)
 
 #### Usage:
 ```javascript
@@ -33,9 +33,9 @@ $(".fullEdit").editable({
 	* value - the new content modified by the user
 	* element - a reference to the original element that fired the callback
 
-* saveText - text to be displayed on the Save button on the dialog
+* saveText - text to be displayed in the Save button on the dialog
 
-* cancelText - text to be displayed on the Cancel button on the dialog
+* cancelText - text to be displayed in the Cancel button on the dialog
 
 * Adding new edit types:
 	1. Add a new widget to the widgets object.
