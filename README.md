@@ -43,3 +43,7 @@ $(".fullEdit").editable({
 		text from the element, etc)
 		Somewhere this function needs to call o.save() to trigger the save function passed in by the user.
 
+### License
+Same as the jQuery library. http://jquery.org/license
+MIT or GPL
+
